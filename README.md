@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @YagoAvellar
+- 19 years old
+- Sign of Aries
 - 👀 I’m interested in Softwares
 - 🌱 I’m currently learning front-end and Back-end
 - 💞️ I’m looking to collaborate on ...
